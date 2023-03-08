@@ -1,0 +1,16 @@
+
+OPCIONES DE WEBSCRAP
+
+TRIPADVISOR 170 resultados: Coquimbo region                                                 X2
+PORTALINMOBILIARIO 290 RESULTADOS : COQUIMBO                                         
+Mercado libre arriendo coquimbo -> 29 pag de resultados                                     X4
+Trovit 1500 avisos region de coquimbo, mezclados con arriendos normales                     X1 >>>> QUEDÉ AQUÍ DESARROLLANDO F(X) SCRAP TROVIT
+Despegar.cl No se ven muchos avisos
+Viajes Falabella es lo mismo que despegar
+Mitula alrededor de 500-800 avisos.                                                         X5
+diarioeldia alrededor de 100 avisos.
+chilepropiedades.cl -> alrededor de 200 avisos de arriendo
+Nuroa -> alrededor de 700 avisos mezclados coquimbo                                         X3
+portalmisvacaciones -> Muy pocos avisos
+Kayak -> Repositorio de Booking
+economicos.cl -> 
